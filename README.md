@@ -1,4 +1,4 @@
-# Sobre mim
+e ou imagem direcione para um outro link e não apenas mostre a imagem.# Sobre mim
 - 👋 Ola,meu nome é @Dandaralinda
 :+1: Meu email de contato é luz.dandara@escola.pr.gov.br
 - 👀 Eu estou interessado em aprendera programar novas línguagens 
