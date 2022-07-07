@@ -2,7 +2,7 @@
 - 👋 Ola,meu nome é @Dandaralinda
 :+1: Meu email de contato é luz.dandara@escola.pr.gov.br
 - 👀 Eu estou interessado em aprendera programar novas línguagens 
-- 🌱 Estou aprendendo a programar recentemente a línguagem de JavaScript
+- 🌱 Estou aprendendo a programar recentemente a línguagem de JavaScript e Scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
